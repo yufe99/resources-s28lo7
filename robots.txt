@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yufe99.github.io/resources-s28lo7/sitemap.xml
